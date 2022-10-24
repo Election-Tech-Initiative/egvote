@@ -6,7 +6,7 @@ site_name: ElectionGuard Voting Site (docs.egvote.us)
 # remote_name: for gh-deploy to Github Pages
 # copyright:
 docs_dir: "docs"
-repo_url: https://github.com/microsoft/electionguard/
+repo_url: https://github.com/microsoft/electionguard-egvote/
 nav:
   - Home: index.md
   - FAQ: faq.md

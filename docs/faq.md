@@ -135,10 +135,10 @@ The most important partners in this pilot are the individuals from the pilot jur
      
      * [InfernoRed](https://www.infernored.com) is a premier independent software company that developed the open-source ElectionGuard SDK. 
      
-     * The [MITRE](mitre.org) National Election Security Lab conducts cybersecurity assessments and testing to assist with securing election infrastructure. MITRE is building a publicly available, independent verifier for ElectionGuard. 
+     * The [MITRE](https://www.mitre.org) National Election Security Lab conducts cybersecurity assessments and testing to assist with securing election infrastructure. MITRE is building a publicly available, independent verifier for ElectionGuard. 
      
      * [Enhanced Voting](https://www.enhancedvoting.com) creates voting solutions that are secure, easy-to-use, and accessible to all. They built the public website where voters can check their confirmation codes and host the ElectionGuard data package for the pilot.  
      
-     * [Center for Civic Design](civicdesign.org) brings their design, research, and communication skills to collecting feedback from voters during the pilot election. 
+     * [Center for Civic Design](https://www.civicdesign.org) brings their design, research, and communication skills to collecting feedback from voters during the pilot election. 
 
 

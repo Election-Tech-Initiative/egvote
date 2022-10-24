@@ -16,9 +16,6 @@ plugins:
       arguments:
         securityLevel: "loose"
         htmlLabels: true
-  - redirects:
-      redirect_maps:
-        "hacktoberfest.md": "contribute/index.md"
 theme:
   name: material
   custom_dir: overrides

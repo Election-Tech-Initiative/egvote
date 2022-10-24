@@ -88,7 +88,7 @@ ElectionGuard includes several kinds of independent verification. Voter confirma
      The confirmation does not reveal how they voted, only that their ballot was counted.    
 ??? abstract "How does a BallotCheck work?"
      A BallotCheck is a way for voters to independently verify that ElectionGuard is working correctly. They create a ballot that they can review to test the accuracy of the system – but which is not counted.  
-     
+
      The BallotCheck starts at the polling place.  
 
      * After marking their ballot, the voter puts it into the scanner. The scanner prints a confirmation code. At the prompt on the scanner screen, instead of casting the ballot, they tell a poll worker that they want to run a BallotCheck.  
@@ -131,13 +131,13 @@ The most important partners in this pilot are the individuals from the pilot jur
 ??? abstract "ElectionGuard team"
      * [Hart InterCivic](https://www.hartintercivic.com/) integrated ElectionGuard software into their Verity® scanner for this election. Hart is the first major voting system manufacturer in the United States to provide independent verifiability. This pilot is part of their continued commitment to voting technology innovation that results in higher levels of voter confidence in the election process. 
      
-     * The [Microsoft Democracy Forward](www.microsoft.com/en-us/corporate-responsibility/democracy-forward) program works to protect democratic processes through open and secure technologies. Microsoft sponsored the creation of the open-source software tools for ElectionGuard.   
+     * The [Microsoft Democracy Forward](https://www.microsoft.com/en-us/corporate-responsibility/democracy-forward) program works to protect democratic processes through open and secure technologies. Microsoft sponsored the creation of the open-source software tools for ElectionGuard.   
      
-     * [InfernoRed](infernored.com) is a premier independent software company that developed the open-source ElectionGuard SDK. 
+     * [InfernoRed](https://www.infernored.com) is a premier independent software company that developed the open-source ElectionGuard SDK. 
      
      * The [MITRE](mitre.org) National Election Security Lab conducts cybersecurity assessments and testing to assist with securing election infrastructure. MITRE is building a publicly available, independent verifier for ElectionGuard. 
      
-     * [Enhanced Voting](enhancedvoting.com) creates voting solutions that are secure, easy-to-use, and accessible to all. They built the public website where voters can check their confirmation codes and host the ElectionGuard data package for the pilot.  
+     * [Enhanced Voting](https://www.enhancedvoting.com) creates voting solutions that are secure, easy-to-use, and accessible to all. They built the public website where voters can check their confirmation codes and host the ElectionGuard data package for the pilot.  
      
      * [Center for Civic Design](civicdesign.org) brings their design, research, and communication skills to collecting feedback from voters during the pilot election. 
 

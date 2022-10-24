@@ -18,4 +18,4 @@ In addition, other vendors contributed services and capabilities to showcase how
     [Did you participate in ElectionGuard on Election Day? We'd love to get your feedback through a brief survey!](https://uncc.qualtrics.com/jfe/form/SV_9GBhXQUbVGBjpzw)
 
 <!-- Links -->
-[election-guard-banner]: (/images/electionguard-banner.svg) "ElectionGuard banner"
+[election-guard-banner]: /images/electionguard-banner.svg "ElectionGuard banner"

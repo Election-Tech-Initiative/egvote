@@ -53,9 +53,9 @@
         n.parentNode.insertBefore(t, n);
         analytics._loadOptions = e;
       };
-      analytics._writeKey = "l8MpVcppOMqty7CwJzDFDFJgE1QbNJ4C";
+      analytics._writeKey = "wQUl3zEGTWhspISToJGCmCfEgRiiGcDS";
       analytics.SNIPPET_VERSION = "4.15.3";
-      analytics.load("l8MpVcppOMqty7CwJzDFDFJgE1QbNJ4C");
+      analytics.load("wQUl3zEGTWhspISToJGCmCfEgRiiGcDS");
       analytics.page();
     }
 })();

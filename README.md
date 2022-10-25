@@ -1,8 +1,8 @@
-[![Microsoft Defending Democracy Program: ElectionGuard][election-guard-banner]](http://microsoft.github.io/electionguard/)
+[![Microsoft Democracy Forward Program: ElectionGuard][election-guard-banner]](https://microsoft.github.io/electionguard/)
 
 [![license][license-image]](LICENSE)
 
-ElectionGuard is an **open source** software development kit (SDK) that makes voting more secure, transparent and accessible. Announced at the [Build developer conference][build-developer-conference], ElectionGuard enables end-to-end verification of elections as well as support the publication of results from ballot comparison audits. The ElectionGuard SDK leverages [homomorphic encryption][homomoprhic-encryption] to ensure that votes recorded by electronic systems of any type remain encrypted, secure, and secret. Results can be published online or made available to third-party organizations for secure validation, and allow individual voters to confirm their votes were correctly counted.
+ElectionGuard is an **open source** software development kit (SDK) that makes voting more secure, transparent and accessible. Announced at the [Build developer conference][build-developer-conference] in 2019, ElectionGuard enables end-to-end verification of elections as well as support the publication of results from ballot comparison audits. The ElectionGuard SDK leverages [homomorphic encryption][homomoprhic-encryption] to ensure that votes recorded by electronic systems of any type remain encrypted, secure, and secret. Results can be published online or made available to third-party organizations for secure validation, and allow individual voters to confirm their votes were correctly counted.
 
 ## ❤️ Open-Source
 

@@ -1,5 +1,5 @@
 :root {
-  --md-primary-fg-color:        indigo;
+  --md-primary-fg-color:        #1A237E;
   --md-primary-fg-color--light: aqua;
   --md-primary-fg-color--dark:  navy;
   --md-text-link-color: indigo;
@@ -9,12 +9,12 @@
 }
 .md-typeset .admonition.specification,
 .md-typeset details.specification {
-  border-color: #00bfa5;
+  border-color: #9FA8DA;
   background-color: rgb(0,191,165, 0.1);
 }
 .md-typeset .specification > .admonition-title,
 .md-typeset .specification > summary {
-  background-color: rgba(49, 116, 107, 0.1);
+  background-color: #9FA8DA;
   border-color: rgb(0,191,165, 0.1);
 }
 .md-typeset .specification > .admonition-title::before,

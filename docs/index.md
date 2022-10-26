@@ -13,9 +13,13 @@ In addition, other vendors contributed services and capabilities to showcase how
 ??? info "See the Independent Verifier report"
     [Go to the Verifier site to see a report of the mathematical tests of the ElectionGuard specification](https://www.google.com)
 ??? info "Read the ElectionGuard questions and answers"
-    [Have a question about ElectionGuard or the pilot? We have answers.](https://www.google.com)
+    Have a question about ElectionGuard or the pilot? Read the answers [here.](docs\faq.md)
+
+    ![faqs](images/4faqs.jpg){align=center}
 ??? info "Give us your feedback!"
-    [Did you participate in ElectionGuard on Election Day? We'd love to get your feedback through a brief survey!](https://uncc.qualtrics.com/jfe/form/SV_9GBhXQUbVGBjpzw)
+    Did you participate in ElectionGuard on Election Day? We'd love to get your feedback through a [brief survey!](https://uncc.qualtrics.com/jfe/form/SV_9GBhXQUbVGBjpzw)
+
+    ![survey](images/5feedback.jpg){align=center}
 
 <!-- Links -->
 [election-guard-banner]: /images/electionguard-banner.svg "ElectionGuard banner"

@@ -19,7 +19,7 @@ In addition, other vendors contributed services and capabilities to showcase how
 
     ![Verifier](images/3verifydata.jpg){align=center}
 ??? info "Read the ElectionGuard questions and answers"
-    Have a question about ElectionGuard or the pilot? Read the answers [here.](docs\faq.md)
+    Have a question about ElectionGuard or the pilot? Read the answers [here.](faq.md)
 
     ![faqs](images/4faqs.jpg){align=center}
 ??? info "Give us your feedback!"

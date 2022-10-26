@@ -7,11 +7,11 @@ Some voters in the 2022 November General Election will experience ElectionGuard 
 In addition, other vendors contributed services and capabilities to showcase how independent verification of elections work. Hart Intercivic has integrated ElectionGuard into its Verity precinct scanners; MITRE wrote an independent verifier; and Enhanced Voting is provided the confirmation code lookup service.
 
 ??? info "Confirm that your ballot was counted"
-     [Scan your confirmation code and see your yourself that your ballot was included in the results! (will be linked to Enhanced voting site)](https://www.google.com)
+    ![sample confirmation code](images/1confirmationcode.png){align=right}
 ??? info "Complete a BallotCheck and check the accuracy of the voting system"
-    [Use the BallotCheck code and check that system has encrypted it correctly (will be linked to Enhanced Voting site)](https://www.google.com)
+    [Use the BallotCheck code and check that system has encrypted it correctly (will be linked to Enhanced Voting site)](https://egvote.us/cc/id22)
 ??? info "See the Independent Verifier report"
-    [Go to the Verifier site to see a report of the mathematical tests of the ElectionGuard specification](https://www.google.com)
+    [Go to the Verifier site](https://egvote.us/cc/id22) to see a report of the mathematical tests of the ElectionGuard specification
 ??? info "Read the ElectionGuard questions and answers"
     Have a question about ElectionGuard or the pilot? Read the answers [here.](docs\faq.md)
 

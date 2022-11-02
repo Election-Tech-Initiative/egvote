@@ -28,4 +28,4 @@ In addition, other vendors contributed services and capabilities to showcase how
     ![survey](images/5feedback.jpg){align=center}
 
 <!-- Links -->
-[election-guard-banner]: /images/electionguard-banner.svg "ElectionGuard banner"
+[election-guard-banner]: images/electionguard-banner.svg "ElectionGuard banner"

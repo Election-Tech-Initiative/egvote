@@ -23,7 +23,7 @@ In addition, other vendors contributed services and capabilities to showcase how
 
     ![faqs](images/4faqs.jpg){align=center}
 ??? info "Give us your feedback!"
-    Did you participate in ElectionGuard on Election Day? We want to know what you think **[Go to our online form to give us your feedback.](www.egvote.us/feedback)**
+    Did you participate in ElectionGuard on Election Day? We want to know what you think. **[Go to our online form to give us your feedback.](www.egvote.us/feedback)**
 
     ![survey](images/5feedback.jpg){align=center}
 

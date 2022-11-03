@@ -1,4 +1,4 @@
-![Microsoft Democracy Forward Program: ElectionGuard][election-guard-banner]
+![Microsoft Democracy Forward Program: ElectionGuard][election-guard-idaho-banner]
 
 # ElectionGuard in the November 2022 General Election
 
@@ -28,4 +28,4 @@ In addition, other vendors contributed services and capabilities to showcase how
     ![survey](images/5feedback.jpg){align=center}
 
 <!-- Links -->
-[election-guard-banner]: images/electionguard-banner.svg "ElectionGuard banner"
+[election-guard-idaho-banner]: images/ElectionGuard-Idaho-2022.svg "ElectionGuard banner"

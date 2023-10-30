@@ -2,15 +2,25 @@
 
 # ElectionGuard in the College Park 2023 General Election
 
-!!! success "Check your confirmation code"
-    ElectionGuard provides a confirmation code that allows you to check that your ballot was counted. After you vote, you can use the confirmation code receipt to check that your ballot was included in the final tally.
+!!! success "Confirm that your ballot was counted"
+    **Scan or enter your confirmation code** and see for yourself that your ballot was included in the results.
 
 [Check your confirmation code](https://app.enhancedvoting.com/results/public/cc/CollegePark/nov23){ .md-button .md-button--primary }
 
-!!! success "Tell us what you think"
-    In addition to the new ElectionGuard / Hart technology, we also want to hear what you think about voting and elections in College Park generally. If you live in College Park, please click the button below to take a survey about a range of voting questions.
+!!! success "Confirme que su boleta electoral fue contada"
+    **Escanee o introduzca su código de confirmación** y compruebe usted mismo que su boleta electoral ya está incluida en los resultados.
+    
+[Verifique su código de confirmación](https://app.enhancedvoting.com/results/public/cc/CollegePark/nov23){ .md-button .md-button--primary }
+
+!!! success "Give us your feedback!"
+    Did you vote in person during Early Voting or on Election Day? We want to know what you think. **Go to our online form to give us your feedback.**
 
 [Take our survey](https://surveys.qualtrics.charlotte.edu/jfe/form/SV_e2rUuBrd6XgPbxk){ .md-button .md-button--primary }
+
+!!! success "¡Denos su opinión!"
+    ¿Votó en persona durante la votación anticipada o el día de la elección? Queremos saber lo que piensa. **Acceda a nuestro formulario en línea para hacernos llegar sus comentarios.**
+
+[Toma nuestra encuesta](https://surveys.qualtrics.charlotte.edu/jfe/form/SV_e2rUuBrd6XgPbxk){ .md-button .md-button--primary }
 
 ## Overview
 
@@ -26,6 +36,8 @@ Several partners contributed services and capabilities to showcase how independe
     **[Scan or enter your confirmation code](https://app.enhancedvoting.com/results/public/cc/CollegePark/nov23)** and see for yourself that your ballot was included in the results.
 
     ![sample confirmation code](images/1confirmationcode.png){align=center}
+
+
 !!! info "Complete a BallotCheck and check the accuracy of the voting system"
     **[Use the BallotCheck confirmation code](https://app.enhancedvoting.com/results/public/cc/CollegePark/nov23)** and check that system has encrypted your choices correctly.
 
